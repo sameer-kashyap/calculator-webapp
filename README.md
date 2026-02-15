@@ -44,16 +44,4 @@ This project focuses on combining functionality with an engaging UI.
 - Event listeners
 - Input handling
 - Conditional logic
-- UI state updates
-
----
-
-## 📂 Project Structure
-
-```text
-Calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- UI state update
